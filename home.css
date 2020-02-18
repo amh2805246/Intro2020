@@ -1,0 +1,33 @@
+/*************************************************************
+**  Author: Austin Hackathorn                                 **
+**  Updated: February 17, 2020                               **
+*************************************************************/
+
+
+#nav-top {
+  justify-content: center;
+  padding-top: 6%;
+  padding-right: 2%;
+  font-size: 45px;
+}
+
+/*** Nav Bar ***/
+
+.nav-link {
+  color: blue;
+  font-size: 25px;
+  padding-top: 3%;
+  text-align: left;
+  text-decoration: none;
+}
+
+body {
+  background-color: #34c6eb;
+}
+
+#info {
+  font-size: 22px;
+  align-items: center;
+  justify-content: center;
+}
+
