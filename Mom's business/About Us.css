@@ -1,0 +1,27 @@
+html {
+    font-family: sans-serif;
+    line-height: 1.10;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+body {
+    margin: 0;
+    font-family: Arial;
+    font-size: 1rem;
+    font-weight: 380;
+    line-height: 1.2;
+    color: #212529;
+    text-align: left;
+    background-color: #00ccff;
+}
+
+img {
+	size: 650 x 862;
+	text-align: center;
+}
+
+img {
+	size: 114 x 114;
+	text-align: bottom-right;
+}
